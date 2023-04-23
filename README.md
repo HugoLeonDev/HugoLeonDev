@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hugo León</h1>
 <h3 align="center">A passionate full stack developer from México</h3>
 
-- 📫 How to reach me **hugo.leon.isc@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
