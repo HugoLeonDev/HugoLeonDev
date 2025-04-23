@@ -61,8 +61,6 @@ Full Stack Developer with 8+ years of experience specializing in Fintech solutio
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugo.leon.isc@gmail.com)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HugoLeonDev&show_icons=true&theme=radical)
 
 ---
 
